@@ -3,4 +3,4 @@ This repository contains various scripts, jupyter notebooks, and other notes on 
 
 In the future, I plan on including a detailed list of the most useful learning path that I find. I am currently focusing most of my efforts on learning reinforcement learning methods.
 
-#Deep Learning (DL)
+# Deep Learning (DL)
